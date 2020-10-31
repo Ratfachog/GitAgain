@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("TGA", "heello");
         Log.i("TGA", "heello");
+
+        Log.i("TGA", "heellfsefwr");
     }
 }

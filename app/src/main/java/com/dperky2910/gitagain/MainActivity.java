@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("TGA", "heello");
+        Log.i("TGA", "heello");
     }
 }
